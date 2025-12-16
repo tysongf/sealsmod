@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "group": "seal_meat",
+  "ingredient": {
+    "item": "sealsmod:raw_seal_meat"
+  },
+  "result": {
+    "id": "sealsmod:cooked_seal_meat"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "sealsmod",
+  "version": "${version}",
+  "name": "Seals Mod",
+  "description": "Adds tameable seals that spawn in different biomes!",
+  "authors": [
+    "tysongf"
+  ],
+  "contact": {
+    "homepage": "https://example.com/",
+    "sources": "https://github.com/tysongf/sealsmod"
+  },
+  "license": "MIT",
+  "icon": "assets/sealsmod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.tysongf.sealsmod.SealsMod"
+    ],
+    "client": [
+      "com.tysongf.sealsmod.client.SealsModClient"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {}
+}

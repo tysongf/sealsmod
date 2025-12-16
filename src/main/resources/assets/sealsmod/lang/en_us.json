@@ -1,0 +1,13 @@
+{
+  "entity.sealsmod.arctic_seal": "Arctic Seal",
+  "entity.sealsmod.harbor_seal": "Harbor Seal",
+  "entity.sealsmod.leopard_seal": "Leopard Seal",
+  
+  "item.sealsmod.raw_seal_meat": "Raw Seal Meat",
+  "item.sealsmod.cooked_seal_meat": "Cooked Seal Meat",
+  "item.sealsmod.seal_pelt": "Seal Pelt",
+  
+  "item.sealsmod.arctic_seal_spawn_egg": "Arctic Seal Spawn Egg",
+  "item.sealsmod.harbor_seal_spawn_egg": "Harbor Seal Spawn Egg",
+  "item.sealsmod.leopard_seal_spawn_egg": "Leopard Seal Spawn Egg"
+}
